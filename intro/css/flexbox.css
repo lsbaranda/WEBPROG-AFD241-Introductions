@@ -2,6 +2,8 @@
     display: flex;
     flex-wrap: wrap;
     background-color: rgb(49, 49, 49);
+    border-style: none;
+    border-radius: 5px;
   }
   .flex-container > div {
     background-color: #f1f1f136;
@@ -11,6 +13,4 @@
     font-family: arial;
     line-height: 50px;
     font-size: 15px;
-    border-style: none;
-    border-radius: 5px;
   }
