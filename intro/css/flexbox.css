@@ -1,8 +1,7 @@
 .flex-container {
     display: flex;
     flex-wrap: wrap;
-    background-color: rgb(49, 49, 49);
-    border-style: none;
+    border: 2px solid white;
     border-radius: 5px;
   }
   .flex-container > div {
