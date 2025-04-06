@@ -3,6 +3,7 @@
     flex-wrap: wrap;
     border: 2px solid black;
     border-radius: 5px;
+    width: 1000px;
   }
   .flex-container > div {
     background-color: rgb(100, 100, 100);
