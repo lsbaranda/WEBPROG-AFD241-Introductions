@@ -15,3 +15,7 @@
     border-style: none;
     border-radius: 5px;
   }
+.title {
+  font-family: arial;
+  font-size: 30px;
+}
