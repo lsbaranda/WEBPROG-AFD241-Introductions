@@ -16,8 +16,6 @@
   main {
     display: flex;
     flex-direction: row;
-    border: 2px solid rgb(100, 100, 100);
-    border-radius: 15px;
   }
   
   .main-content {
@@ -36,10 +34,3 @@
     border-radius: 15px;
   }
 
-  footer {
-    flex: 1;
-    background-color: #f0f0f045;
-    padding: 20px;
-    border: 2px solid rgb(100, 100, 100);
-    border-radius: 15px;
-  }
