@@ -1,3 +1,8 @@
+body {
+  background-image:URL('topographic-map.png');
+  background-repeat: no-repeat;
+  background-size: 1920px;
+ }
 .container {
     max-width: 960px;
     margin: auto;
