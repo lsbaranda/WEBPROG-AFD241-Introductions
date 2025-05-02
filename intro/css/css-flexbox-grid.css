@@ -3,6 +3,7 @@
     grid-template-rows: auto 1fr auto;
     height: 100vh;
     gap: 10px;
+    max-width: 960px
     margin:auto;
   }
   
@@ -13,7 +14,6 @@
     border-radius: 15px;
     font-family: arial;
     color:white;
-    max-width: 900px;
     text-align: center;
   }
   
@@ -22,7 +22,6 @@
     flex-direction: row;
     gap: 10px;
     font-family: arial;
-    max-width: 900px;
   }
   
   .main-content {
