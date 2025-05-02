@@ -14,7 +14,8 @@
     font-family: arial;
     color:white;
     max-width: 800px;
-    align-content: center;
+    justify-content: center;
+    align-items: center;
   }
   
   main {
@@ -22,6 +23,7 @@
     flex-direction: row;
     gap: 10px;
     font-family: arial;
+    max-width: 400px
   }
   
   .main-content {
@@ -30,7 +32,6 @@
     padding: 20px;
     border: 2px solid rgb(100, 100, 100);
     border-radius: 15px;
-    max-width: 400px;
   }
   
   .sidebar {
@@ -39,7 +40,6 @@
     padding: 20px;
     border: 2px solid rgb(100, 100, 100);
     border-radius: 15px;
-    max-width: 400px;
   }
   footer {
     background-color: #75757595;
