@@ -29,6 +29,7 @@
     padding: 20px;
     border: 2px solid rgb(100, 100, 100);
     border-radius: 15px;
+    max-width: 400px
   }
   
   .sidebar {
@@ -37,6 +38,7 @@
     padding: 20px;
     border: 2px solid rgb(100, 100, 100);
     border-radius: 15px;
+    max-width: 400px
   }
   footer {
     background-color: #75757595;
@@ -44,5 +46,6 @@
     border: 2px solid rgb(100, 100, 100);
     border-radius: 15px;
     font-family: arial;
+    max-width: 800px;
   }
 
