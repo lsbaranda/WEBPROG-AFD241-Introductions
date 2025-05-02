@@ -20,6 +20,7 @@
   main {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: row;
     flex: auto;
     gap: 10px;
     font-family: arial;
