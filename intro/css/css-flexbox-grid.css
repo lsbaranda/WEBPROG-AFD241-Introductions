@@ -27,7 +27,6 @@
   }
   
   .education-profession {
-    flex: 2;
     background-color: #75757575;
     padding: 20px;
     border: 2px solid rgb(100, 100, 100);
@@ -35,7 +34,6 @@
   }
   
   .interests-hobby {
-    flex: 1;
     background-color: #75757575;
     padding: 20px;
     border: 2px solid rgb(100, 100, 100);
