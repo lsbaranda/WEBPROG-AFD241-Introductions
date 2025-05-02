@@ -5,8 +5,8 @@
     gap: 10px;
   }
   
-  header, footer {
-    background-color: #75757595;
+  header {
+    background-color: #05050595;
     padding: 20px;
     border: 2px solid rgb(100, 100, 100);
     border-radius: 15px;
@@ -34,5 +34,12 @@
     padding: 20px;
     border: 2px solid rgb(100, 100, 100);
     border-radius: 15px;
+  }
+  footer {
+    background-color: #75757595;
+    padding: 20px;
+    border: 2px solid rgb(100, 100, 100);
+    border-radius: 15px;
+    font-family: arial;
   }
 
