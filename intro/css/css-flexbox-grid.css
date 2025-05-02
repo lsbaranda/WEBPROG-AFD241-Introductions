@@ -1,11 +1,11 @@
 .container {
+    max-width: 960px;
+    margin: auto;
     display: grid;
     grid-template-rows: auto 1fr auto;
     height: 100vh;
     gap: 10px;
-    max-width: 960px;
-    margin:auto;
-  }
+
   
   header {
     background-color: #050505;
@@ -24,7 +24,7 @@
     font-family: arial;
   }
   
-  .main-content {
+  .education-profession {
     flex: 2;
     background-color: #75757575;
     padding: 20px;
@@ -32,7 +32,7 @@
     border-radius: 15px;
   }
   
-  .sidebar {
+  .interests-hobby {
     flex: 1;
     background-color: #75757575;
     padding: 20px;
