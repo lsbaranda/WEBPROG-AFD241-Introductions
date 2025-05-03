@@ -16,20 +16,8 @@
     font-family: arial;
   }
   
-  .education-profession {
+  .flex-con {
     flex: auto;
-    background-color: #75757575;
-    padding: 20px;
-    border: 2px solid rgb(100, 100, 100);
-    border-radius: 15px;
-  }
-  
-  .interests-hobby {
-    flex: auto;
-    background-color: #75757575;
-    padding: 20px;
-    border: 2px solid rgb(100, 100, 100);
-    border-radius: 15px;
   }
   footer {
     background-color: #75757595;
