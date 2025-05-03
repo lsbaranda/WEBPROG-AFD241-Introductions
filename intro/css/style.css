@@ -9,6 +9,7 @@ header {
     background-image:URL('../topographic-map.png');
     background-repeat: no-repeat;
     background-color: #050505;
+    background-size: 1920px;
     padding: 20px;
     border: 2px solid rgb(100, 100, 100);
     border-radius: 15px;
