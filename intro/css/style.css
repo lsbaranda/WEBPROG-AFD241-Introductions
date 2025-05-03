@@ -3,7 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: 1920px;
     font-family: Arial;
-   }
+}
 
 header {
     background-color: #050505;
@@ -13,17 +13,17 @@ header {
     font-family: arial;
     color:white;
     text-align: center;
-  }
-  .type1 {
+}
+.type1 {
     background-color: #75757575;
     padding: 20px;
     border: 2px solid rgb(100, 100, 100);
     border-radius: 15px;
-  }
+}
   
-  .type2 {
+.type2 {
     background-color: #75757575;
     padding: 20px;
     border: 2px solid rgb(100, 100, 100);
     border-radius: 15px;
-  }
+}
