@@ -22,6 +22,7 @@ main {
 
 
 .type2 {
+  display: flex;
   flex-direction: row;
 }
 .type3 {
