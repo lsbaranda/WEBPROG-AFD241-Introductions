@@ -1,12 +1,12 @@
 body {
-    background-image:URL('../transparent BG.png');
+    background-image:URL('../images/transparent BG.png');
     background-repeat: no-repeat;
     background-size: 1920px;
     font-family: Arial;
 }
 
 header {
-    background-image:URL('../topographic-map.png');
+    background-image:URL('../images/transparent BG.png');
     background-repeat: no-repeat;
     background-color: #050505;
     background-size: 1920px;
