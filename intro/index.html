@@ -45,7 +45,7 @@
         <div id="imageApp">
           <div>
             <figure v-for="x in manyWelds">
-              <img v-bind:src="x.url" max-height="256px">
+              <img v-bind:src="x.url" height="256px">
               <figcaption>{{ x.name }}</figcaption>
             </figure>
           </div>
@@ -53,7 +53,6 @@
     </footer>
   </div>
   <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-  <script src="js/vue.js"></script>
   <script src="js/myscript.js"></script>
   <script src="js/myimages.js"></script>
 </body>
