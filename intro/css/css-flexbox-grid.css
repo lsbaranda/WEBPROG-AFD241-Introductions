@@ -27,7 +27,7 @@ main {
 .type3 {
   max-width: 192px;
   max-height: 192px;
-  margin: 10px;
+  margin: 5px;
 }
 
 footer {
@@ -39,5 +39,8 @@ footer {
     border: 2px solid rgb(100, 100, 100);
     border-radius: 15px;
     font-family: arial;
+}
+footer > div {
+  flex: auto;
 }
 
