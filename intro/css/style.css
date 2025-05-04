@@ -26,6 +26,7 @@ header {
     padding: 20px;
     border: 2px solid rgb(100, 100, 100);
     border-radius: 15px;
+    max-width: 50%;
 }
   
 .type2 {
@@ -33,6 +34,7 @@ header {
     padding: 20px;
     border: 2px solid rgb(100, 100, 100);
     border-radius: 15px;
+    max-width: 50%;
 }
 .type3 {
     padding: 0px;
