@@ -15,7 +15,9 @@ main {
     gap: 10px;
 }
   
-
+.flex-con {
+  flex: auto;
+}
 
 footer {
     background-color: #75757595;
