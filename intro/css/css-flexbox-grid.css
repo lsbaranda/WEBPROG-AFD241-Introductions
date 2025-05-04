@@ -15,12 +15,7 @@ main {
     gap: 10px;
 }
   
-.flex-con {
-    flex: auto;
-}
-.type2 {
-  display: grid;
-}
+
 
 footer {
     background-color: #75757595;
