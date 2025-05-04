@@ -45,7 +45,7 @@
         <div id="imageApp">
           <div>
             <figure v-for="x in manyWelds">
-              <img v-bind:src="x.url">
+              <img v-bind:src="x.url" max-height="256px">
               <figcaption>{{ x.name }}</figcaption>
             </figure>
           </div>
