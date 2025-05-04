@@ -19,7 +19,9 @@ main {
   flex: auto;
 }
 
-
+.type1 {
+  max-width: 480px;
+}
 .type2 {
   flex-direction: row;
 }
