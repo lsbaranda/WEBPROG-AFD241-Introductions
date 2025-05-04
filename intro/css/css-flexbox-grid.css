@@ -13,6 +13,7 @@ main {
     flex-direction: row;
     flex: auto;
     gap: 10px;
+    max-width: 480px;
 }
   
 .flex-con {
