@@ -1,12 +1,12 @@
 function myWelder() {
-    document.getElementById("clickWelder").style.backgroundColor= rgba(255, 68, 0, 0.500);
+    document.getElementById("clickWelder").style.backgroundColor="red";
 }
 function myOffroad() {
-    document.getElementById("clickOffroad").style.backgroundColor= rgba(255, 68, 0, 0.500);
+    document.getElementById("clickOffroad").style.backgroundColor="red";
 }
 function myHike() {
-    document.getElementById("clickHike").style.backgroundColor= rgba(255, 68, 0, 0.500);
+    document.getElementById("clickHike").style.backgroundColor="orangered"
 }
 function myRadio() {
-    document.getElementById("clickRadio").style.backgroundColor= rgba(255, 68, 0, 0.500);
+    document.getElementById("clickRadio").style.backgroundColor="red";
 }
