@@ -25,6 +25,9 @@ main {
 .type2 {
   flex-direction: row;
 }
+.type3 {
+  max-width: 192px;
+}
 
 footer {
     background-color: #75757595;
