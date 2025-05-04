@@ -1,6 +1,3 @@
-function myFunction() {
-    document.getElementById("demo").innerHTML="Paragraph updated.";
-    document.getElementById("loc").style.color="red";
-    document.getElementById("loc").style.fontFamily = "Arial";
-    document.getElementById("loc").style.fontSize = "larger";
+function myOffroad() {
+    document.getElementById("clickOffroad").style.backgroundColor="red";
 }
