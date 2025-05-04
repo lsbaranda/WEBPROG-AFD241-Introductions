@@ -34,11 +34,6 @@ footer {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-    background-color: #75757595;
-    padding: 20px;
-    border: 2px solid rgb(100, 100, 100);
-    border-radius: 15px;
-    font-family: arial;
 }
 footer > div {
   flex: auto;
