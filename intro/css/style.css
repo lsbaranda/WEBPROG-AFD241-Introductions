@@ -31,7 +31,7 @@ header {
 .type2 {
     background-color: #75757575;
     padding: 10px;
-    border: 2px solid rgb(100, 100, 100);
+    border-style: none;
     border-radius: 15px;
 }
 .type3 {
