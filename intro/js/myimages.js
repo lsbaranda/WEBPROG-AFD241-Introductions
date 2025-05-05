@@ -14,18 +14,3 @@ const imageApp = Vue.createApp({
     }
    })
    imageApp.mount('#imageApp')
-
-// Create a Vue 3 application instance for the Favorites Gallery
-Vue.createApp({
-    data() {
-      return {
-        // Array of photo objects, each with a 'src' pointing to the image path
-        photos: [
-          { src: 'assets/images/img-1.gif' },
-          { src: 'assets/images/img-2.jpg' },
-          { src: 'assets/images/img-3.jpg' },
-          { src: 'assets/images/img-4.jpg' },
-          { src: 'assets/images/img-5.jpg' }
-        ]
-      };
-    },
